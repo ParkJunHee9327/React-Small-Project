@@ -1,0 +1,15 @@
+.ConsteForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conste-container{
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid black;
+}
+img {
+    height: 50px;
+    width: 50px;
+}

@@ -1,0 +1,20 @@
+.conste-main-img{
+    width: 450px;
+    height: 450px;
+}
+.main-con{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+/* button area */
+.btn-container{
+    padding: 0px 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+}
